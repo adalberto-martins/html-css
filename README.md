@@ -6,5 +6,5 @@
  <a href="https://adalberto-martins.github.io/html-css/exercicios/ex003/index.html">Executar o exercio 003</a><br>
  <a href="https://adalberto-martins.github.io/html-css/exercicios/ex004/index.html">Executar o exercio 004</a><br>
  <a href="https://adalberto-martins.github.io/html-css/exercicios/ex006/index.html">Executar o exercio 006</a><br>
- <a href="https://adalberto-martins.github.io/html-css/exercicios/ex026/mq002/index.html">Executar o exercio 026</a><br>
+ 
 
