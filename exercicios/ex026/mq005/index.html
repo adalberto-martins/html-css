@@ -4,12 +4,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Media Query</title>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link rel="stylesheet" href="estilos/style.css">
 </head>
 <body>
     <header>
         <h1>Meu Site</h1>
-        <menu>            
+        <span id="burguer" class="material-icons" onclick="clickMenu()">menu</span>
+        <menu id="itens">            
             <ul>
                 <li><a href="#">Opção 1</a></li>
                 <li><a href="#">Opção 2</a></li>
@@ -26,6 +28,15 @@
             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Explicabo molestiae aliquid fuga molestias doloremque pariatur, ipsum tenetur iure! Eveniet iste tenetur a enim esse exercitationem minima. Molestiae voluptas sit ducimus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio libero excepturi accusamus in, deserunt numquam est ratione pariatur quibusdam, quae assumenda? Ex beatae quam rem. Autem aspernatur magnam est minus!</p>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim, maiores. Incidunt sequi pariatur fugiat molestias doloribus nobis rerum, minus culpa illo modi distinctio, autem eius sed corporis, cum odit rem. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio deserunt numquam necessitatibus similique laudantium quasi temporibus libero error, aliquam ut quam nostrum dolor alias cupiditate eveniet illum officiis tempora quibusdam. Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis pariatur cumque dolore reiciendis modi temporibus ullam quidem ex rerum? Voluptate, placeat? Neque vel repellat rem corrupti tempora inventore aliquid mollitia.</p>
         </article>
-    </main>    
+    </main>
+    <script>
+        function clickMenu() {
+            if (itens.style.display == 'block') {
+                itens.style.display = 'none'
+            } else {
+            itens.style.display = 'block'
+            }
+        }
+    </script>    
 </body>
 </html>
