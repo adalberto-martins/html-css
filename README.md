@@ -14,3 +14,5 @@
 <a href="https://adalberto-martins.github.io/html-css/exercicios/ex010/index.html">Executar o exercio 010</a><br>
 <a href="https://adalberto-martins.github.io/html-css/exercicios/ex011/index.html">Executar o exercio 011</a><br>
 <a href="https://adalberto-martins.github.io/html-css/exercicios/ex012/index.html">Executar o exercio 012</a><br>
+<a href="https://adalberto-martins.github.io/html-css/exercicios/ex013/index.html">Executar o exercio 013</a>
+<a href="https://adalberto-martins.github.io/html-css/exercicios/ex014/index.html">Executar o exercio 014</a><br>
